@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default1.aspx" title="Accueil"  description="">
+    <siteMapNode url="classes.aspx" title="Gestion de classe"  description="" >
+      <siteMapNode url ="Ouvrire_Classe.aspx" title ="Ajoute classe"/>
+    </siteMapNode>
+    <siteMapNode url ="ElevesListe.aspx" title ="Lise d'eleve">
+      <siteMapNode url="eleves.aspx" title="Gestion d'eleves "  description="" />
+    </siteMapNode>
+    <siteMapNode url ="inscriptions.aspx" title ="Inscreption"/>
+    <siteMapNode url ="Default.aspx" title ="Fiche"/>
+  </siteMapNode>
+</siteMap>
